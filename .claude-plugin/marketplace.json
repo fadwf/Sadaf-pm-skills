@@ -1,0 +1,11 @@
+{
+  "name": "sadaf-pm-skills",
+  "owner": { "name": "Sadaf" },
+  "plugins": [
+    {
+      "name": "product-research",
+      "source": "./plugins/product-research",
+      "description": "Desktop research skills for product teams"
+    }
+  ]
+}
